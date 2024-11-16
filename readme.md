@@ -18,6 +18,13 @@ To use Confettea.js in your project, simply include the script in your HTML file
 <script src="path/to/confettea.js"></script>
 ```
 
+You can also install confettea using npm with the following command:
+```
+npm install confettea
+```
+
+For more information, please see the readme over on npmjs: https://www.npmjs.com/package/confettea
+
 ## Usage
 
 After including the script, you can create a confetti burst using the `confettea.burst()` method. Here's a basic example:
